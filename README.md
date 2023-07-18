@@ -1,4 +1,3 @@
-![logo](https://github.com/AbuZaid55/AbuZaid55/blob/main/My%20project-1.jpg)
 <h1 align="center">Hi 👋, I'm Abu Zaid</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
